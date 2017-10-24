@@ -1,0 +1,19 @@
+body
+{
+  background-image: url(background);
+  background-size: 100%;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  color: white;
+}
+
+p
+{
+  color: black;
+  font-family: times;
+  font-size:18pt;
+}
+form
+{
+  align-content: center;
+}
